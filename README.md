@@ -1,1 +1,1 @@
-# COMP631 Introduction to Infirmation Retrieval
+# COMP631 Introduction to Information Retrieval
