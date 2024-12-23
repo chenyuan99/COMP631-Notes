@@ -1,1 +1,1 @@
-# COMP631-Notes
+# COMP631 Introduction to Infirmation Retrieval
